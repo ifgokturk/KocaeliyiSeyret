@@ -38,7 +38,7 @@ This example is using Google Maps  tutorial series that contains the following t
 - Writing .feature files for BDD testing
 
 # Screenshots
-<img width="299" alt="Screen Shot 2022-04-04 at 01 19 30" src="ttps://github.com/ifgokturk/KocaeliyiSeyret/assets/102929252/7991bc09-2655-4cb5-87e3-e45cf956cf66">
+<img width="299" alt="Screen Shot 2022-04-04 at 01 19 30" src="https://github.com/ifgokturk/KocaeliyiSeyret/assets/102929252/7991bc09-2655-4cb5-87e3-e45cf956cf66">
 <img width="333" alt="Screen Shot 2022-04-04 at 01 20 14" src="https://github-production-user-asset-6210df.s3.amazonaws.com/102929252/266867449-e2531a3f-c801-42ed-be90-36c68f970e02.png">
 <img width="333" alt="Screen Shot 2022-04-04 at 01 23 33" src="https://user-images.githubusercontent.com/61537686/161451389-073d57fd-50d7-4445-aad9-3584265f99c3.png">
 <img width="333" alt="Screen Shot 2022-04-04 at 01 24 49" src="https://user-images.githubusercontent.com/61537686/161451398-acffa777-317a-4b0c-8c41-587a78603d13.png">
