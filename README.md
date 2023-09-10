@@ -1,10 +1,9 @@
 ![Simulator Screen Shot - iPhone 14 Pro - 2022-12-12 at 11 21 46]()
 ![Simulator Screen Shot - iPhone 14 Pro - 2022-12-12 at 11 21 41]()
-![Simulator Screen Shot - iPhone 14 Pro - 2022-12-12 at 11 21 37](https://github.com/ifgokturk/KocaeliyiSeyret/assets/102929252/e036382d-ec72-4cf3-9790-a672e526f203)
-![Simulator Screen Shot - iPhone 14 Pro - 2022-12-12 at 11 21 29](https://github.com/ifgokturk/KocaeliyiSeyret/assets/102929252/d77561ca-7fd2-43c3-a3a8-5e2923d9e36f)
-![Simulator Screen Shot - iPhone 14 Pro - 2022-12-12 at 11 20 49](https://github.com/ifgokturk/KocaeliyiSeyret/assets/102929252/2f9471e8-0878-4662-b393-b62af1c66433)
-![Simulator Screen Shot - iPhone 14 Pro - 2022-12-12 at 11 22 09](https://github.com/ifgokturk/KocaeliyiSeyret/assets/102929252/e2531a3f-c801-42ed-be90-36c68f970e02)
-![Simulator Screen Shot - iPhone 14 Pro - 2022-12-12 at 11 24 40](h)
+![Simulator Screen Shot - iPhone 14 Pro - 2022-12-12 at 11 21 37]()
+![Simulator Screen Shot - iPhone 14 Pro - 2022-12-12 at 11 21 29]()
+![Simulator Screen Shot - iPhone 14 Pro - 2022-12-12 at 11 20 49]()
+![Simulator Screen Shot - iPhone 14 Pro - 2022-12-12 at 11 22 09]
 Kocaeli’yi Seyret
 
 Watch the Kocaeli city from city cameras.
@@ -38,10 +37,14 @@ This example is using Google Maps  tutorial series that contains the following t
 - Writing .feature files for BDD testing
 
 # Screenshots
-<img width="299" alt="Screen Shot 2022-04-04 at 01 19 30" src="https://github.com/ifgokturk/KocaeliyiSeyret/assets/102929252/7991bc09-2655-4cb5-87e3-e45cf956cf66">
+<img width="333" alt="Screen Shot 2022-04-04 at 01 19 30" src="https://github.com/ifgokturk/KocaeliyiSeyret/assets/102929252/7991bc09-2655-4cb5-87e3-e45cf956cf66">
 <img width="333" alt="Screen Shot 2022-04-04 at 01 20 14" src="https://github-production-user-asset-6210df.s3.amazonaws.com/102929252/266867449-e2531a3f-c801-42ed-be90-36c68f970e02.png">
 <img width="333" alt="Screen Shot 2022-04-04 at 01 23 33" src="https://github.com/ifgokturk/KocaeliyiSeyret/assets/102929252/9fbdd101-74a7-420a-839b-64a9c38673a4">
 <img width="333" alt="Screen Shot 2022-04-04 at 01 24 49" src="https://github.com/ifgokturk/KocaeliyiSeyret/assets/102929252/1d6021d0-d2c4-4840-8783-7fe84c94b3bf">
+
+<img width="333" alt="Screen Shot 2022-04-04 at 01 24 49" src="https://github.com/ifgokturk/KocaeliyiSeyret/assets/102929252/2f9471e8-0878-4662-b393-b62af1c66433">
+<img width="333" alt="Screen Shot 2022-04-04 at 01 24 49" src="https://github.com/ifgokturk/KocaeliyiSeyret/assets/102929252/d77561ca-7fd2-43c3-a3a8-5e2923d9e36f">
+<img width="333" alt="Screen Shot 2022-04-04 at 01 24 49" src="https://github.com/ifgokturk/KocaeliyiSeyret/assets/102929252/e036382d-ec72-4cf3-9790-a672e526f203">
 
 # Technologies
 - Flutter
